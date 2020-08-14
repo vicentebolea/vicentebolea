@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/vicentebolea/vicentebolea/master/vicentebanner.png)
+
 ## What I do
 
 I do many interesting things, but, from a technical point of view it might not be that much profitable. Jokes apart, I have a strong expertise from inside Academia and Industry in the areas of Software Engineering, specifically Big Data Systems and UNIX systems. Things I can do for you are:
