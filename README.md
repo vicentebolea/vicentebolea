@@ -1,16 +1,24 @@
-### Hi there 👋
+## What I do
 
-<!--
-**vicentebolea/vicentebolea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do many interesting things, but, from a technical point of view it might not be that much profitable. Jokes apart, I have a strong expertise from inside Academia and Industry in the areas of Software Engineering, specifically Big Data Systems and UNIX systems. Things I can do for you are:
 
-Here are some ideas to get you started:
+    Assess on ideas in that domain
+    Develop solutions for complex problems
+    Contribute with knowledgeable ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Very importantly, I do all these things for free, but only if the software is OSS and I am interested on it. If we are talking about a commercial or boring product, my suffering shall be compensate.
+
+## What I have done
+
+    R&D Engineer at Kitware, NY, USA
+    Core Software Engineer at ThinkParQ, Germany
+    Big Data System Architect at Fraunhofer IOSB-INA, Germany
+    RA at Data Intensive Computing Lab, Korea
+
+
+## Where to find me
+
+    @vicenbolea, Twitter
+    @vicenbolea, GitHub
+    vicente.bolea gmail.com
