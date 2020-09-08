@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/vicentebolea/vicentebolea/master/vicentebanner.png)
 
-## Strengths
+## Strengths 
 
-💡 Assess on ideas in that domain  
-🤔 Develop solutions for complex problems  
-🙏 Contribute with knowledgeable ideas  
+💡 Assess on ideas in the OSS domain.  
+🤔 Develop solutions for complex problems.  
+🙏 Contribute with knowledgeable ideas. 
 
 ## XP
 
