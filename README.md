@@ -17,4 +17,5 @@
 
 🎭 [Stories and Resume](https://vicentebolea.github.io/)   
 🐦 [@vicentebolea, Twitter](https://twitter.com/vicentebolea)   
-💻 [@vicentebolea, GitHub](https://github.com/vicentebolea)
+💻 [@vicentebolea, GitHub](https://github.com/vicentebolea)  
+📝 [@vicentebolea, Stack Overflow](http://stackoverflow.com/story/vicentebolea)
