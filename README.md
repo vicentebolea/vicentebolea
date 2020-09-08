@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/vicentebolea/vicentebolea/master/vicentebanner.png)
 
-## What I do
+## Mission statement
 
 I do many interesting things, but, from a technical point of view it might not be that much profitable. Jokes apart, I have a strong expertise from inside Academia and Industry in the areas of Software Engineering, specifically Big Data Systems and UNIX systems. Things I can do for you are:
 
@@ -8,18 +8,17 @@ I do many interesting things, but, from a technical point of view it might not b
 🤔 Develop solutions for complex problems  
 🙏 Contribute with knowledgeable ideas  
 
-
 Very importantly, I do all these things for free, but only if the software is OSS and I am interested on it. If we are talking about a commercial or boring product, my suffering shall be compensate.
 
-## What I have done
+## XP
 
 🇺🇸 R&D Engineer at Kitware, NY, USA  
 🇩🇪 Core Software Engineer at ThinkParQ, Germany  
 🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA, Germany  
 🇰🇷 RA at Data Intensive Computing Lab, Korea  
 
+## Follow me
 
-## Where to find me
-
-- 🐦 @vicentebolea, Twitter
-- 💻 @vicentebolea, GitHub
+🎭 [Stories and Resume](http://vicentebolea.com)   
+🐦 [@vicentebolea, Twitter](https://twitter.com/vicentebolea)   
+💻 [@vicentebolea, GitHub](https://github.com/vicentebolea)
