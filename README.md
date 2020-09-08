@@ -12,10 +12,10 @@ Very importantly, I do all these things for free, but only if the software is OS
 
 ## XP
 
-🇺🇸 R&D Engineer at Kitware, NY, USA  
-🇩🇪 Core Software Engineer at ThinkParQ, Germany  
-🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA, Germany  
-🇰🇷 RA at Data Intensive Computing Lab, Korea  
+🇺🇸 R&D Engineer at Kitware, NY  
+🇩🇪 Core Software Engineer at BeeGFS  
+🇰🇷 RA at Data Intensive Computing Lab, UNIST  
+🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA  
 
 ## Follow me
 
