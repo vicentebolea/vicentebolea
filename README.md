@@ -19,6 +19,6 @@ Very importantly, I do all these things for free, but only if the software is OS
 
 ## Follow me
 
-🎭 [Stories and Resume](http://vicentebolea.com)   
+🎭 [Stories and Resume](https://vicentebolea.github.io/)   
 🐦 [@vicentebolea, Twitter](https://twitter.com/vicentebolea)   
 💻 [@vicentebolea, GitHub](https://github.com/vicentebolea)
