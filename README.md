@@ -9,8 +9,8 @@
 ## XP
 
 🇺🇸 R&D Engineer at Kitware, NY  
-🇩🇪 Core Software Engineer at BeeGFS  
-🇰🇷 RA at Data Intensive Computing Lab, UNIST  
+🇩🇪 Core Software Engineer at BeeGFS 
+🇰🇷 RA at Data Intensive Computing Lab, UNIST (KOREA)  
 🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA  
 
 ## Follow me
