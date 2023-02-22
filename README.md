@@ -2,14 +2,14 @@
 
 ## Strengths 
 
-💡 Assess on ideas in the OSS domain.  
+💡 Assess on challenges in the OSS domain.  
 🤔 Develop solutions for complex problems.  
 🙏 Contribute with knowledgeable ideas. 
 
 ## XP
 
-🇺🇸 R&D Engineer at Kitware, NY  
-🇩🇪 Core Software Engineer at BeeGFS 
+🇺🇸 Senior R&D Engineer at Kitware, NY  
+🇩🇪 Core Software Engineer at BeeGFS  
 🇰🇷 RA at Data Intensive Computing Lab, UNIST (KOREA)  
 🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA  
 
