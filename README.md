@@ -13,6 +13,19 @@
 🇰🇷 RA at Data Intensive Computing Lab, UNIST (KOREA)  
 🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA  
 
+## Projects
+
+
+### Past
+
+- VeloxDFS: Author ![GitHub Repo stars](https://img.shields.io/github/stars/DICL/VeloxDFS?style=social)
+- BeeGFS: Core developer
+
+### Current
+
+- ADIOS2: Core developer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
+- VTK-m: Core developer
+
 ## Follow me
 
 🎭 [Stories and Resume](https://vicentebolea.github.io/)   
