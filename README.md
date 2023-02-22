@@ -15,18 +15,16 @@
 
 ## Projects
 
+- ADIOS2: Core developer and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
+- VTK-m: Core developer and release engineer
 
 ### Past
 
 - VeloxDFS: Author ![GitHub Repo stars](https://img.shields.io/github/stars/DICL/VeloxDFS?style=social)
 - BeeGFS: Core developer
 - ParaView: Core developer
-- VTK: Core developer
-
-### Current
-
-- ADIOS2: Core developer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
-- VTK-m: Core developer
+- VTK: Release and Build Engineer
+- CMake: Contributor
 
 ## Follow me
 
