@@ -20,6 +20,8 @@
 
 - VeloxDFS: Author ![GitHub Repo stars](https://img.shields.io/github/stars/DICL/VeloxDFS?style=social)
 - BeeGFS: Core developer
+- ParaView: Core developer
+- VTK: Core developer
 
 ### Current
 
