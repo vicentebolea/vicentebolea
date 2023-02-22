@@ -18,7 +18,7 @@
 🎭 [Stories and Resume](https://vicentebolea.github.io/)   
 🐦 [@vicentebolea, Twitter](https://twitter.com/vicentebolea)   
 💻 [@vicentebolea, GitHub](https://github.com/vicentebolea)  
-📝 [@vicentebolea, Stack Overflow](http://stackoverflow.com/story/vicentebolea)
+📝 [@vicentebolea, Stack Overflow](https://stackoverflow.com/users/2420872/vicente-bolea)
 
 
 <a href="https://stackoverflow.com/users/2420872/vicente-bolea"><img src="https://stackoverflow.com/users/flair/2420872.png?theme=dark" width="208" height="58" alt="profile for Vicente Bolea at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vicente Bolea at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
