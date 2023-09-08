@@ -15,8 +15,9 @@
 
 ## Projects
 
-- [ornadios/ADIOS2](https://github.com/ornladios/ADIOS2): Software Engineering Tech Lead, Core developer, and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
-- [VTK-m](https://m.vtk.org/): Core developer and release engineer
+- [ADIOS2](https://github.com/ornladios/ADIOS2): Software Engineering Tech Lead, Core developer, and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
+- [VTK-m](https://m.vtk.org/): Core developer and release engineer.
+- [Spack](https://github.com/spack/spack): Package maintainer and contributor. ![GitHub Repo stars](https://img.shields.io/github/stars/spack/spack?style=social)
 
 ### Past
 
