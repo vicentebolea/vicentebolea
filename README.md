@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/vicentebolea/vicentebolea/master/vicentebanner.png)
+![](https://raw.githubusercontent.com/vicentebolea/vicentebolea/master/vicente_logo_small.jpeg)
 
 ## Strengths 
 
