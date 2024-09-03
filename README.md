@@ -15,16 +15,19 @@
 
 ## Projects
 
-- [ADIOS2](https://github.com/ornladios/ADIOS2): Software Engineering Tech Lead, Core developer, and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
+- [ADIOS2](https://github.com/ornladios/ADIOS2): Software Engineering tech lead, core developer, and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
 - [VTK-m](https://m.vtk.org/): Core developer and release engineer.
+- [VTK](https://vtk.org/): Release and build engineer and core developer.
 - [Spack](https://github.com/spack/spack): Package maintainer and contributor. ![GitHub Repo stars](https://img.shields.io/github/stars/spack/spack?style=social)
+- [Conda forge](https://conda-forge.org/): Package maintainer of several projects.
+- [OpenSUSE](https://www.opensuse.org/): Package maintainer of several projects.
+- [nrtk-explorer](https://github.com/Kitware/nrtk-explorer) Emerging neural network model robustnesses scorer framework, co-creator.
 
 ### Past
 
 - [VeloxDFS](https://github.com/DICL/VeloxDFS): Author ![GitHub Repo stars](https://img.shields.io/github/stars/DICL/VeloxDFS?style=social)
 - [BeeGFS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiG65ishJyBAxV9FFkFHdERADgQFnoECAYQAQ&url=https%3A%2F%2Fwww.beegfs.io%2F&usg=AOvVaw0qYujAZt9AdCtpItrfColi&opi=89978449): Core developer
 - [ParaView](https://www.paraview.org/): Core developer
-- [VTK](https://vtk.org/): Release and Build Engineer
 - [CMake](https://cmake.org/): Contributor
 
 [![Vicente's github stats](https://github-readme-stats.vercel.app/api?username=vicentebolea&theme=dark&show_icons=true)](https://github.com/vicentebolea)
