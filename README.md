@@ -39,8 +39,8 @@
 ## Follow me
 
 🎭 [My Site](https://vicentebolea.github.io/)   
-🐦 [@vicentebolea, Bluesky](https://bsky.app/profile/vbolea.bsky.social)
-🐦 [@vicentebolea, Fosstodon](https://fosstodon.org/@vbolea)   
+🐦 [@vicentebolea, Bluesky](https://bsky.app/profile/vbolea.bsky.social)  
+🐦 [@vicentebolea, Fosstodon](https://fosstodon.org/@vbolea)  
 💻 [@vicentebolea, GitHub](https://github.com/vicentebolea)  
 📝 [@vicentebolea, Stack Overflow](https://stackoverflow.com/users/2420872/vicente-bolea)
 
