@@ -11,26 +11,31 @@
 🇺🇸 Senior R&D Engineer at Kitware, NY  
 🇩🇪 Core Software Engineer at BeeGFS  
 🇰🇷 RA at Data Intensive Computing Lab, UNIST (KOREA)  
-🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA  
+🇩🇪 Big Data System Architect at Fraunhofer IOSB-INA
+
+## Cool new personal projects
+
+- [VTK prompt](https://github.com/vtkprompt/vtk-prompt) VTK enabled LLM chatbot WebApp.
+- [Virtual thermostat](https://github.com/vicentebolea/virtual-thermostat) Deploy your virtual thermostat in your raspberry-pi.
 
 ## Projects
 
-- [ADIOS2](https://github.com/ornladios/ADIOS2): Software Engineering tech lead, core developer, and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
-- [Viskores](https://github.com/Viskores/viskores): Lead of transition from VTK-m, Core developer, release engineer. ![GitHub Repo stars](https://img.shields.io/github/stars/Viskores/viskores?style=social)
-- [VTK-m](https://m.vtk.org/): Core developer and release engineer.
-- [VTK](https://vtk.org/): Release and build engineer and core developer.
-- [Spack](https://github.com/spack/spack): Package maintainer and contributor. ![GitHub Repo stars](https://img.shields.io/github/stars/spack/spack?style=social)
-- [Conda forge](https://conda-forge.org/): Package maintainer of several projects.
-- [OpenSUSE](https://www.opensuse.org/): Package maintainer of several projects. [@vicentebolea](https://build.opensuse.org/users/vicentebolea)
+- [DoE ADIOS2](https://github.com/ornladios/ADIOS2) Software Engineering tech lead, core developer, and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
+- [Linux foundation Viskores](https://github.com/Viskores/viskores) Performed transition from VTK-m, core developer and release engineer. ![GitHub Repo stars](https://img.shields.io/github/stars/Viskores/viskores?style=social)
+- [VTK-m](https://m.vtk.org/) Core developer and release engineer.
+- [VTK](https://vtk.org/) Release and build engineer and core developer.
+- [Spack](https://github.com/spack/spack) Package maintainer and contributor. ![GitHub Repo stars](https://img.shields.io/github/stars/spack/spack?style=social)
+- [Conda forge](https://conda-forge.org/) Package maintainer of several projects.
+- [OpenSUSE](https://www.opensuse.org/) Package maintainer of several projects. [@vicentebolea](https://build.opensuse.org/users/vicentebolea)
 - [nrtk-explorer](https://github.com/Kitware/nrtk-explorer) Emerging neural network model robustnesses scorer framework, co-creator.
-- [DOE DAV-SDK](https://dav-sdk.github.io/) DAV SDK is a unified toolkit for DOE's data analysis and visualization software deployed.
+- [DoE DAV-SDK](https://dav-sdk.github.io/) DAV SDK is a unified toolkit for DOE's data analysis and visualization software deployed.
 
 ### Past
 
-- [VeloxDFS](https://github.com/DICL/VeloxDFS): Author ![GitHub Repo stars](https://img.shields.io/github/stars/DICL/VeloxDFS?style=social)
+- [VeloxDFS](https://github.com/DICL/VeloxDFS) Author ![GitHub Repo stars](https://img.shields.io/github/stars/DICL/VeloxDFS?style=social)
 - [BeeGFS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiG65ishJyBAxV9FFkFHdERADgQFnoECAYQAQ&url=https%3A%2F%2Fwww.beegfs.io%2F&usg=AOvVaw0qYujAZt9AdCtpItrfColi&opi=89978449): Core developer. ![GitHub Repo stars](https://img.shields.io/github/stars/ThinkParQ/beegfs?style=social)
-- [ParaView](https://www.paraview.org/): Core developer
-- [CMake](https://cmake.org/): Contributor
+- [ParaView](https://www.paraview.org/) Core developer
+- [CMake](https://cmake.org/) Contributor
 
 [![Vicente's github stats](https://github-readme-stats.vercel.app/api?username=vicentebolea&theme=dark&show_icons=true)](https://github.com/vicentebolea)
 
