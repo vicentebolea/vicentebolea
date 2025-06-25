@@ -16,7 +16,7 @@
 ## Projects
 
 - [ADIOS2](https://github.com/ornladios/ADIOS2): Software Engineering tech lead, core developer, and release engineer ![GitHub Repo stars](https://img.shields.io/github/stars/ornladios/ADIOS2?style=social)
-- [Viskores](https://github.com/Viskores/viskores): Core developer and release engineer. ![GitHub Repo stars](https://img.shields.io/github/stars/Viskores/viskores2?style=social)
+- [Viskores](https://github.com/Viskores/viskores): Lead of transition from VTK-m, Core developer, release engineer. ![GitHub Repo stars](https://img.shields.io/github/stars/Viskores/viskores?style=social)
 - [VTK-m](https://m.vtk.org/): Core developer and release engineer.
 - [VTK](https://vtk.org/): Release and build engineer and core developer.
 - [Spack](https://github.com/spack/spack): Package maintainer and contributor. ![GitHub Repo stars](https://img.shields.io/github/stars/spack/spack?style=social)
@@ -28,7 +28,7 @@
 ### Past
 
 - [VeloxDFS](https://github.com/DICL/VeloxDFS): Author ![GitHub Repo stars](https://img.shields.io/github/stars/DICL/VeloxDFS?style=social)
-- [BeeGFS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiG65ishJyBAxV9FFkFHdERADgQFnoECAYQAQ&url=https%3A%2F%2Fwww.beegfs.io%2F&usg=AOvVaw0qYujAZt9AdCtpItrfColi&opi=89978449): Core developer
+- [BeeGFS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiG65ishJyBAxV9FFkFHdERADgQFnoECAYQAQ&url=https%3A%2F%2Fwww.beegfs.io%2F&usg=AOvVaw0qYujAZt9AdCtpItrfColi&opi=89978449): Core developer. ![GitHub Repo stars](https://img.shields.io/github/stars/ThinkParQ/beegfs?style=social)
 - [ParaView](https://www.paraview.org/): Core developer
 - [CMake](https://cmake.org/): Contributor
 
